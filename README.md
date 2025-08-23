@@ -1,3 +1,3 @@
 # Acerca de mí
-Mi repositorio poersonal
+Mi repositorio personal
 📚
